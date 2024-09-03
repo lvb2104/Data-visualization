@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+.main {
+    height: 100vh;
+    background-color: #6F7F90;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    height: 560px;
+    width: 900px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 20px 20px 20px;
+    align-self: center;
+    position: relative;
+    box-shadow: 2px 2px 20px;
+    align-items: center;
+}
+
+h1 {
+    font-size: 40px;
+}
